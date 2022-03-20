@@ -3740,7 +3740,7 @@ case 'stupid':
       case 'ugly':
       case 'pretty':
       case 'lesbian':
-      case 'randi':
+      case 'Bhabhi':
       case 'gandu':
       case 'madarchod':
       case 'kala':
@@ -3765,6 +3765,8 @@ case 'stupid':
       case 'nigga':
       case 'sexy':
       case 'hot':
+		
+		
       if (!isGroup) return reply(mess.only.group)
         membr = []
         const pff = groupMembers
