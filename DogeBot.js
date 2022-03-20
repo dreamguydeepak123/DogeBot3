@@ -4916,7 +4916,7 @@ reply(stdout)
 }
 })
 }
-if (isOwner) {
+if (isOwner) {ok
 if (budy.startsWith('>')) {
 console.log(color('[ EVAL ]'), color(moment(mek.messageTimestamp * 1000).format('DD/MM/YY HH:mm:ss'), 'yellow'), color(`eval return`))
 try {
